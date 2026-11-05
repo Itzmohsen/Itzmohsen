@@ -1,1 +1,1 @@
-<img src="header.png" alt="Mohsen Alavi" width="100%">
+<img src="header.png?v=2" alt="Mohsen Alavi" width="100%">
